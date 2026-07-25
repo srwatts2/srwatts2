@@ -18,6 +18,7 @@ I work at the intersection of **cybersecurity and data analytics** — using dat
 
 - Applying analytics techniques from my MSBA to security and risk problems
 - **Red Hat Ansible** — automation and configuration management
+- **CCNA (Cisco Certified Network Associate)** — networking certification in progress
 
 ## Projects
 
