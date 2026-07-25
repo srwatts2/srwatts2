@@ -2,6 +2,7 @@
 
 I work at the intersection of **cybersecurity and data analytics** — using data to make security decisions sharper, faster, and easier to defend.
 
+- 🛫 **Airway Transportation Systems Specialist (Automation)** at the FAA — maintaining air traffic automation systems. Views expressed here are my own.
 - 🎓 **MSBA candidate**, University of Washington Tacoma — graduating June 2027
 - 🛡️ **BAS in Cybersecurity & Networking**
 - 📜 **CompTIA Security+** certified
@@ -15,6 +16,7 @@ I work at the intersection of **cybersecurity and data analytics** — using dat
 ## What I'm learning right now
 
 - Applying analytics techniques from my MSBA to security and risk problems
+- **Red Hat Ansible** — automation and configuration management
 
 ## Projects
 
