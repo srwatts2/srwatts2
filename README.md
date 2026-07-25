@@ -12,6 +12,7 @@ I work at the intersection of **cybersecurity and data analytics** — using dat
 
 - **Python** — scripting, automation, and data analysis
 - **SQL** — querying and shaping data for analysis
+- **Linux** — systems administration and the command line
 
 ## What I'm learning right now
 
