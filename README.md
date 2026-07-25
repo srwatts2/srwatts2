@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Steve Watts 👋
 
-<!--
-**srwatts2/srwatts2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **cybersecurity and data analytics** — using data to make security decisions sharper, faster, and easier to defend.
 
-Here are some ideas to get you started:
+- 🎓 **MSBA candidate**, University of Washington Tacoma — graduating June 2027
+- 🛡️ **BAS in Cybersecurity & Networking**
+- 📜 **CompTIA Security+** certified
+- 🔭 Focused on where security meets analytics: turning logs, alerts, and risk data into insight
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working with
+
+- **Python** — scripting, automation, and data analysis
+- **SQL** — querying and shaping data for analysis
+
+## What I'm learning right now
+
+- Applying analytics techniques from my MSBA to security and risk problems
+
+## Projects
+
+More coming soon — currently building out projects that combine security and data.
+
+## Let's connect
+
+- 📫 Reach me on GitHub
